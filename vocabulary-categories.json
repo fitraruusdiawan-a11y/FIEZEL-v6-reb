@@ -1,0 +1,39 @@
+{
+  "levels": [
+    "A1",
+    "A2",
+    "B1",
+    "B2",
+    "C1",
+    "C2"
+  ],
+  "topics": [
+    "Business",
+    "Communication",
+    "Culture",
+    "Daily Life",
+    "Education",
+    "Emotions",
+    "Environment",
+    "Family",
+    "Food & Drink",
+    "Health",
+    "House & Home",
+    "Nature",
+    "Science",
+    "Society",
+    "Sport",
+    "Technology",
+    "Time",
+    "Transport",
+    "Travel",
+    "Work"
+  ],
+  "progress": [
+    "New",
+    "Learning",
+    "Familiar",
+    "Mastered",
+    "Needs Review"
+  ]
+}

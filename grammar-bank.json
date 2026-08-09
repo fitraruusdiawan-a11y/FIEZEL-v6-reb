@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "g6-001",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "In this English lesson, Every morning, she ___ her ability through regular practice. The example focuses on ability.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-002",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In this English lesson, The company ___ new products every year. The example focuses on project.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-003",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In this English lesson, They ___ the weekly report on Monday. The example focuses on report.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-004",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "In this English lesson, We ___ the museum last Saturday. The example focuses on course.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-005",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "In this English lesson, He ___ the project before dinner yesterday. The example focuses on museum.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-006",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In this English lesson, She ___ the report three times this week. The example focuses on schedule.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-007",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In this English lesson, They ___ the new system since June. The example focuses on library.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-008",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "In this English lesson, By next month, the team ___ the bridge design. The example focuses on technology.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-009",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "In this English lesson, If I ___ more time, I would join the course. The example focuses on ability.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-010",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "In this English lesson, You ___ wear a helmet when riding this bike. The example focuses on project.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-011",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "In this English lesson, She bought ___ umbrella because it was raining. The example focuses on report.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-012",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "In this English lesson, The meeting starts ___ Monday. The example focuses on course.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-013",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "In this English lesson, He enjoys ___ in the evening. The example focuses on museum.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-014",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "In this English lesson, The bridge ___ last year. The example focuses on schedule.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-015",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "In this English lesson, She said that she ___ tired. The example focuses on library.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-016",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "In this English lesson, The book ___ I borrowed was excellent. The example focuses on technology.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-017",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "In this English lesson, Hardly ___ the train when it began to rain. The example focuses on ability.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-018",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "In this English lesson, He ___ have forgotten the appointment; he never arrived. The example focuses on project.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-019",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "In this English lesson, The course aims to improve writing, speaking, and ___. The example focuses on report.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-020",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "In this English lesson, The list of new words ___ on the desk. The example focuses on course.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-021",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "For a practical example, Every morning, she ___ her ability through regular practice The example focuses on museum.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-022",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "For a practical example, The company ___ new products every year The example focuses on schedule.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-023",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "For a practical example, They ___ the weekly report on Monday The example focuses on library.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-024",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "For a practical example, We ___ the museum last Saturday The example focuses on technology.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-025",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "For a practical example, He ___ the project before dinner yesterday The example focuses on ability.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-026",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "For a practical example, She ___ the report three times this week The example focuses on project.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-027",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "For a practical example, They ___ the new system since June The example focuses on report.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-028",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "For a practical example, By next month, the team ___ the bridge design The example focuses on course.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-029",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "For a practical example, If I ___ more time, I would join the course The example focuses on museum.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-030",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "For a practical example, You ___ wear a helmet when riding this bike The example focuses on schedule.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-031",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "For a practical example, She bought ___ umbrella because it was raining The example focuses on library.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-032",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "For a practical example, The meeting starts ___ Monday The example focuses on technology.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-033",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "For a practical example, He enjoys ___ in the evening The example focuses on ability.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-034",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "For a practical example, The bridge ___ last year The example focuses on project.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-035",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "For a practical example, She said that she ___ tired The example focuses on report.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-036",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "For a practical example, The book ___ I borrowed was excellent The example focuses on course.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-037",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "For a practical example, Hardly ___ the train when it began to rain The example focuses on museum.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-038",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "For a practical example, He ___ have forgotten the appointment; he never arrived The example focuses on schedule.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-039",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "For a practical example, The course aims to improve writing, speaking, and ___ The example focuses on library.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-040",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "For a practical example, The list of new words ___ on the desk The example focuses on technology.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-041",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "In the study context, Every morning, she ___ her ability through regular practice. The example focuses on ability.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-042",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In the study context, The company ___ new products every year. The example focuses on project.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-043",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In the study context, They ___ the weekly report on Monday. The example focuses on report.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-044",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "In the study context, We ___ the museum last Saturday. The example focuses on course.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-045",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "In the study context, He ___ the project before dinner yesterday. The example focuses on museum.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-046",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In the study context, She ___ the report three times this week. The example focuses on schedule.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-047",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In the study context, They ___ the new system since June. The example focuses on library.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-048",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "In the study context, By next month, the team ___ the bridge design. The example focuses on technology.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-049",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "In the study context, If I ___ more time, I would join the course. The example focuses on ability.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-050",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "In the study context, You ___ wear a helmet when riding this bike. The example focuses on project.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-051",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "In the study context, She bought ___ umbrella because it was raining. The example focuses on report.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-052",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "In the study context, The meeting starts ___ Monday. The example focuses on course.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-053",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "In the study context, He enjoys ___ in the evening. The example focuses on museum.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-054",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "In the study context, The bridge ___ last year. The example focuses on schedule.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-055",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "In the study context, She said that she ___ tired. The example focuses on library.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-056",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "In the study context, The book ___ I borrowed was excellent. The example focuses on technology.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-057",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "In the study context, Hardly ___ the train when it began to rain. The example focuses on ability.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-058",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "In the study context, He ___ have forgotten the appointment; he never arrived. The example focuses on project.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-059",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "In the study context, The course aims to improve writing, speaking, and ___. The example focuses on report.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-060",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "In the study context, The list of new words ___ on the desk. The example focuses on course.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "report",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-061",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "When discussing this topic, Every morning, she ___ her ability through regular practice The example focuses on museum.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-062",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "When discussing this topic, The company ___ new products every year The example focuses on schedule.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-063",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "When discussing this topic, They ___ the weekly report on Monday The example focuses on library.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-064",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "When discussing this topic, We ___ the museum last Saturday The example focuses on technology.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-065",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "When discussing this topic, He ___ the project before dinner yesterday The example focuses on ability.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-066",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "When discussing this topic, She ___ the report three times this week The example focuses on project.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-067",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "When discussing this topic, They ___ the new system since June The example focuses on report.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-068",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "When discussing this topic, By next month, the team ___ the bridge design The example focuses on course.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-069",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "When discussing this topic, If I ___ more time, I would join the course The example focuses on museum.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-070",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "When discussing this topic, You ___ wear a helmet when riding this bike The example focuses on schedule.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-071",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "When discussing this topic, She bought ___ umbrella because it was raining The example focuses on library.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-072",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "When discussing this topic, The meeting starts ___ Monday The example focuses on technology.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-073",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "When discussing this topic, He enjoys ___ in the evening The example focuses on ability.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-074",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "When discussing this topic, The bridge ___ last year The example focuses on project.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-075",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "When discussing this topic, She said that she ___ tired The example focuses on report.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-076",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "When discussing this topic, The book ___ I borrowed was excellent The example focuses on course.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-077",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "When discussing this topic, Hardly ___ the train when it began to rain The example focuses on museum.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-078",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "When discussing this topic, He ___ have forgotten the appointment; he never arrived The example focuses on schedule.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-079",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "When discussing this topic, The course aims to improve writing, speaking, and ___ The example focuses on library.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-080",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "When discussing this topic, The list of new words ___ on the desk The example focuses on technology.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "course",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-081",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "In a workplace example, Every morning, she ___ her ability through regular practice. The example focuses on ability.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-082",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In a workplace example, The company ___ new products every year. The example focuses on project.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-083",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In a workplace example, They ___ the weekly report on Monday. The example focuses on report.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-084",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "In a workplace example, We ___ the museum last Saturday. The example focuses on course.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-085",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "In a workplace example, He ___ the project before dinner yesterday. The example focuses on museum.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-086",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In a workplace example, She ___ the report three times this week. The example focuses on schedule.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-087",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In a workplace example, They ___ the new system since June. The example focuses on library.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-088",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "In a workplace example, By next month, the team ___ the bridge design. The example focuses on technology.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-089",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "In a workplace example, If I ___ more time, I would join the course. The example focuses on ability.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-090",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "In a workplace example, You ___ wear a helmet when riding this bike. The example focuses on project.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-091",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "In a workplace example, She bought ___ umbrella because it was raining. The example focuses on report.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-092",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "In a workplace example, The meeting starts ___ Monday. The example focuses on course.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-093",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "In a workplace example, He enjoys ___ in the evening. The example focuses on museum.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-094",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "In a workplace example, The bridge ___ last year. The example focuses on schedule.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-095",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "In a workplace example, She said that she ___ tired. The example focuses on library.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-096",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "In a workplace example, The book ___ I borrowed was excellent. The example focuses on technology.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-097",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "In a workplace example, Hardly ___ the train when it began to rain. The example focuses on ability.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-098",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "In a workplace example, He ___ have forgotten the appointment; he never arrived. The example focuses on project.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-099",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "In a workplace example, The course aims to improve writing, speaking, and ___. The example focuses on report.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-100",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "In a workplace example, The list of new words ___ on the desk. The example focuses on course.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "museum",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-101",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "For everyday English, Every morning, she ___ her ability through regular practice The example focuses on museum.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-102",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "For everyday English, The company ___ new products every year The example focuses on schedule.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-103",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "For everyday English, They ___ the weekly report on Monday The example focuses on library.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-104",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "For everyday English, We ___ the museum last Saturday The example focuses on technology.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-105",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "For everyday English, He ___ the project before dinner yesterday The example focuses on ability.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-106",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "For everyday English, She ___ the report three times this week The example focuses on project.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-107",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "For everyday English, They ___ the new system since June The example focuses on report.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-108",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "For everyday English, By next month, the team ___ the bridge design The example focuses on course.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-109",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "For everyday English, If I ___ more time, I would join the course The example focuses on museum.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-110",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "For everyday English, You ___ wear a helmet when riding this bike The example focuses on schedule.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-111",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "For everyday English, She bought ___ umbrella because it was raining The example focuses on library.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-112",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "For everyday English, The meeting starts ___ Monday The example focuses on technology.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-113",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "For everyday English, He enjoys ___ in the evening The example focuses on ability.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-114",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "For everyday English, The bridge ___ last year The example focuses on project.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-115",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "For everyday English, She said that she ___ tired The example focuses on report.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-116",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "For everyday English, The book ___ I borrowed was excellent The example focuses on course.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-117",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "For everyday English, Hardly ___ the train when it began to rain The example focuses on museum.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-118",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "For everyday English, He ___ have forgotten the appointment; he never arrived The example focuses on schedule.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-119",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "For everyday English, The course aims to improve writing, speaking, and ___ The example focuses on library.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-120",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "For everyday English, The list of new words ___ on the desk The example focuses on technology.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "schedule",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-121",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "In a classroom exercise, Every morning, she ___ her ability through regular practice. The example focuses on ability.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-122",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In a classroom exercise, The company ___ new products every year. The example focuses on project.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-123",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "In a classroom exercise, They ___ the weekly report on Monday. The example focuses on report.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-124",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "In a classroom exercise, We ___ the museum last Saturday. The example focuses on course.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-125",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "In a classroom exercise, He ___ the project before dinner yesterday. The example focuses on museum.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-126",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In a classroom exercise, She ___ the report three times this week. The example focuses on schedule.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-127",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "In a classroom exercise, They ___ the new system since June. The example focuses on library.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-128",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "In a classroom exercise, By next month, the team ___ the bridge design. The example focuses on technology.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-129",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "In a classroom exercise, If I ___ more time, I would join the course. The example focuses on ability.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-130",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "In a classroom exercise, You ___ wear a helmet when riding this bike. The example focuses on project.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-131",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "In a classroom exercise, She bought ___ umbrella because it was raining. The example focuses on report.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-132",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "In a classroom exercise, The meeting starts ___ Monday. The example focuses on course.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-133",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "In a classroom exercise, He enjoys ___ in the evening. The example focuses on museum.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-134",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "In a classroom exercise, The bridge ___ last year. The example focuses on schedule.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-135",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "In a classroom exercise, She said that she ___ tired. The example focuses on library.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-136",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "In a classroom exercise, The book ___ I borrowed was excellent. The example focuses on technology.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-137",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "In a classroom exercise, Hardly ___ the train when it began to rain. The example focuses on ability.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-138",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "In a classroom exercise, He ___ have forgotten the appointment; he never arrived. The example focuses on project.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-139",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "In a classroom exercise, The course aims to improve writing, speaking, and ___. The example focuses on report.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-140",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "In a classroom exercise, The list of new words ___ on the desk. The example focuses on course.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "library",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-141",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "When reviewing this skill, Every morning, she ___ her ability through regular practice The example focuses on museum.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-142",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "When reviewing this skill, The company ___ new products every year The example focuses on schedule.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": "Use third-person singular present simple.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-143",
+    "type": "grammar",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "When reviewing this skill, They ___ the weekly report on Monday The example focuses on library.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use the base form with a plural subject.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-144",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "When reviewing this skill, We ___ the museum last Saturday The example focuses on technology.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use the past form for a completed event.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-145",
+    "type": "grammar",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "When reviewing this skill, He ___ the project before dinner yesterday The example focuses on ability.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "Use the past simple for a completed past action.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-146",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "When reviewing this skill, She ___ the report three times this week The example focuses on project.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use has + past participle with she.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-147",
+    "type": "grammar",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "When reviewing this skill, They ___ the new system since June The example focuses on report.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use have + past participle with they and since.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-148",
+    "type": "grammar",
+    "skill": "future",
+    "level": "B1",
+    "question": "When reviewing this skill, By next month, the team ___ the bridge design The example focuses on course.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": "Use future perfect for an action completed by a future time.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-149",
+    "type": "grammar",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "When reviewing this skill, If I ___ more time, I would join the course The example focuses on museum.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Second conditional uses past simple in the if-clause.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-150",
+    "type": "grammar",
+    "skill": "modals",
+    "level": "A2",
+    "question": "When reviewing this skill, You ___ wear a helmet when riding this bike The example focuses on schedule.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": "Use should for advice.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-151",
+    "type": "grammar",
+    "skill": "articles",
+    "level": "A1",
+    "question": "When reviewing this skill, She bought ___ umbrella because it was raining The example focuses on library.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": "Use an before a vowel sound.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-152",
+    "type": "grammar",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "When reviewing this skill, The meeting starts ___ Monday The example focuses on technology.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": "Use on with days of the week.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-153",
+    "type": "grammar",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "When reviewing this skill, He enjoys ___ in the evening The example focuses on ability.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Enjoy is followed by a gerund.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-154",
+    "type": "grammar",
+    "skill": "passive",
+    "level": "B1",
+    "question": "When reviewing this skill, The bridge ___ last year The example focuses on project.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": "Use was + past participle for a singular past passive.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-155",
+    "type": "grammar",
+    "skill": "reported",
+    "level": "B2",
+    "question": "When reviewing this skill, She said that she ___ tired The example focuses on report.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Backshift is common in reported speech.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-156",
+    "type": "grammar",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "When reviewing this skill, The book ___ I borrowed was excellent The example focuses on course.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Use which for a thing.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-157",
+    "type": "grammar",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "When reviewing this skill, Hardly ___ the train when it began to rain The example focuses on museum.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "After hardly at the start, use auxiliary + subject.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-158",
+    "type": "grammar",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "When reviewing this skill, He ___ have forgotten the appointment; he never arrived The example focuses on schedule.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": "Must have expresses a strong deduction about the past.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-159",
+    "type": "grammar",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "When reviewing this skill, The course aims to improve writing, speaking, and ___ The example focuses on library.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": "Keep parallel gerund forms.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "g6-160",
+    "type": "grammar",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "When reviewing this skill, The list of new words ___ on the desk The example focuses on technology.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": "The head subject is singular: list.",
+    "vocabContext": "technology",
+    "contentStatus": "validated_editorial_template"
+  }
+]

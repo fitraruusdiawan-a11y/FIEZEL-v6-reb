@@ -1,0 +1,68 @@
+{
+  "vocabulary": {
+    "count": 2000,
+    "unique": 2000,
+    "duplicates": 0,
+    "missingMeaning": 0,
+    "missingExample": 0,
+    "missingPhonetic": 0,
+    "unverified": 1997,
+    "placeholderExampleTranslation": 1997
+  },
+  "reading": {
+    "passages": 300,
+    "questions": 1500,
+    "duplicatePassages": 0,
+    "duplicateQuestions": 0,
+    "duplicateOptions": 0,
+    "invalidAnswers": 0,
+    "question_pattern_groups_over_1": 100,
+    "largest_question_pattern_group": 15
+  },
+  "grammar": {
+    "questions": 160,
+    "invalidAnswers": 0,
+    "duplicateQuestions": 0
+  },
+  "levelTest": {
+    "questions": 150,
+    "unique": 150,
+    "duplicates": 0,
+    "skills": [
+      "vocabulary_meaning",
+      "vocabulary_precision",
+      "vocabulary_context",
+      "present_simple",
+      "past_simple",
+      "present_perfect",
+      "future",
+      "conditionals",
+      "modals",
+      "articles",
+      "prepositions",
+      "gerunds",
+      "passive",
+      "reported",
+      "relatives",
+      "inversion",
+      "advanced_modals",
+      "parallelism",
+      "subject_verb_agreement",
+      "reading_detail",
+      "reading_evidence",
+      "reading_comprehension",
+      "reading_retrieval",
+      "reading_paraphrase",
+      "reading_inference",
+      "reading_true_false",
+      "reading_reference",
+      "reading_author_focus",
+      "reading_summary_detail",
+      "vocabulary_in_context"
+    ]
+  },
+  "content_quality_note": "Structural gates pass for question banks. Vocabulary source remains explicitly needs_review where translations/examples are unverified; V6 does not fabricate those fields. Three screenshot-demonstrated entries were corrected editorially.",
+  "ai_api_scan": 0,
+  "broken_legacy_vocabulary_sources": 0,
+  "json_files_parse": true
+}

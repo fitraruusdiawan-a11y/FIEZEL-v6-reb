@@ -1,0 +1,3222 @@
+[
+  {
+    "id": "lt6-v001",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which Indonesian meaning best matches “ability”?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "memperoleh"
+    ],
+    "answerIndex": 0,
+    "target": "v00001",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “ability” is “kemampuan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v002",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "What does “accept” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "mencapai",
+      "memperoleh",
+      "menerima"
+    ],
+    "answerIndex": 3,
+    "target": "v00002",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “accept” is “menerima”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v003",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “achieve”.",
+    "options": [
+      "menerima",
+      "memperoleh",
+      "mencapai",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00003",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “achieve” is “mencapai”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v004",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which meaning belongs to the vocabulary item “acquire”?",
+    "options": [
+      "mencapai",
+      "memperoleh",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00004",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “acquire” is “memperoleh”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v005",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “adapt”?",
+    "options": [
+      "menyesuaikan diri",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00005",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “adapt” is “menyesuaikan diri”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v006",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "What does “add” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "menambahkan"
+    ],
+    "answerIndex": 3,
+    "target": "v00006",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “add” is “menambahkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v007",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “admire”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "mengagumi",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00007",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “admire” is “mengagumi”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v008",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “admit”?",
+    "options": [
+      "mencapai",
+      "mengakui",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00008",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “admit” is “mengakui”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v009",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which Indonesian meaning best matches “adopt”?",
+    "options": [
+      "mengadopsi",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00009",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “adopt” is “mengadopsi”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v010",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "What does “advance” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "maju; kemajuan"
+    ],
+    "answerIndex": 3,
+    "target": "v00010",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “advance” is “maju; kemajuan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v011",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “advantage”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "keuntungan",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00011",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “advantage” is “keuntungan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v012",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which meaning belongs to the vocabulary item “advice”?",
+    "options": [
+      "mencapai",
+      "nasihat",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00012",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “advice” is “nasihat”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v013",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “afford”?",
+    "options": [
+      "mampu membeli",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00013",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “afford” is “mampu membeli”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v014",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "What does “agree” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "setuju"
+    ],
+    "answerIndex": 3,
+    "target": "v00014",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “agree” is “setuju”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v015",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Choose the closest Indonesian gloss for “allow”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "mengizinkan",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00015",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “allow” is “mengizinkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v016",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “announce”?",
+    "options": [
+      "mencapai",
+      "mengumumkan",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00016",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “announce” is “mengumumkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v017",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which Indonesian meaning best matches “appear”?",
+    "options": [
+      "muncul; tampak",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00017",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “appear” is “muncul; tampak”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v018",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "What does “apply” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "menerapkan; melamar"
+    ],
+    "answerIndex": 3,
+    "target": "v00018",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “apply” is “menerapkan; melamar”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v019",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Choose the closest Indonesian gloss for “approach”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "pendekatan; mendekati",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00019",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “approach” is “pendekatan; mendekati”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v020",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “argue”?",
+    "options": [
+      "mencapai",
+      "berpendapat; berdebat",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00020",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “argue” is “berpendapat; berdebat”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v021",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “arrange”?",
+    "options": [
+      "mengatur",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00021",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “arrange” is “mengatur”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v022",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "What does “assess” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "menilai"
+    ],
+    "answerIndex": 3,
+    "target": "v00022",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “assess” is “menilai”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v023",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Choose the closest Indonesian gloss for “assume”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "menganggap",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00023",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “assume” is “menganggap”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v024",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which meaning belongs to the vocabulary item “attempt”?",
+    "options": [
+      "mencapai",
+      "usaha; mencoba",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00024",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “attempt” is “usaha; mencoba”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v025",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “avoid”?",
+    "options": [
+      "menghindari",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00025",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “avoid” is “menghindari”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v026",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "What does “aware” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "sadar"
+    ],
+    "answerIndex": 3,
+    "target": "v00026",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “aware” is “sadar”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v027",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “balance”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "keseimbangan",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00027",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “balance” is “keseimbangan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v028",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “benefit”?",
+    "options": [
+      "mencapai",
+      "manfaat",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00028",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “benefit” is “manfaat”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v029",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which Indonesian meaning best matches “behave”?",
+    "options": [
+      "berperilaku",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00029",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “behave” is “berperilaku”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v030",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "What does “belong” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "milik; termasuk"
+    ],
+    "answerIndex": 3,
+    "target": "v00030",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “belong” is “milik; termasuk”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v031",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “blame”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "menyalahkan",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00031",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “blame” is “menyalahkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v032",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which meaning belongs to the vocabulary item “borrow”?",
+    "options": [
+      "mencapai",
+      "meminjam",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00032",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “borrow” is “meminjam”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v033",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “bother”?",
+    "options": [
+      "mengganggu",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00033",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “bother” is “mengganggu”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v034",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "What does “brief” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "singkat"
+    ],
+    "answerIndex": 3,
+    "target": "v00034",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “brief” is “singkat”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v035",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Choose the closest Indonesian gloss for “broaden”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "memperluas",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00035",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “broaden” is “memperluas”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v036",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “calculate”?",
+    "options": [
+      "mencapai",
+      "menghitung",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00036",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “calculate” is “menghitung”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v037",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which Indonesian meaning best matches “cancel”?",
+    "options": [
+      "membatalkan",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00037",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “cancel” is “membatalkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v038",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "What does “capable” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "mampu"
+    ],
+    "answerIndex": 3,
+    "target": "v00038",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “capable” is “mampu”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v039",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Choose the closest Indonesian gloss for “capture”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "menangkap; merekam",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00039",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “capture” is “menangkap; merekam”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v040",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which meaning belongs to the vocabulary item “challenge”?",
+    "options": [
+      "mencapai",
+      "tantangan",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00040",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “challenge” is “tantangan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v041",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "Which Indonesian meaning best matches “change”?",
+    "options": [
+      "mengubah",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00041",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “change” is “mengubah”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v042",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "What does “clarify” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "memperjelas"
+    ],
+    "answerIndex": 3,
+    "target": "v00042",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “clarify” is “memperjelas”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v043",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “combine”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "menggabungkan",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00043",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “combine” is “menggabungkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v044",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which meaning belongs to the vocabulary item “compare”?",
+    "options": [
+      "mencapai",
+      "membandingkan",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00044",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “compare” is “membandingkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v045",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “complain”?",
+    "options": [
+      "mengeluh",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00045",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “complain” is “mengeluh”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v046",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "What does “complete” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "menyelesaikan; lengkap"
+    ],
+    "answerIndex": 3,
+    "target": "v00046",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “complete” is “menyelesaikan; lengkap”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v047",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Choose the closest Indonesian gloss for “concentrate”.",
+    "options": [
+      "menerima",
+      "mencapai",
+      "berkonsentrasi",
+      "kemampuan"
+    ],
+    "answerIndex": 2,
+    "target": "v00047",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “concentrate” is “berkonsentrasi”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v048",
+    "type": "placement",
+    "skill": "vocabulary_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which meaning belongs to the vocabulary item “concern”?",
+    "options": [
+      "mencapai",
+      "kekhawatiran; menyangkut",
+      "kemampuan",
+      "menerima"
+    ],
+    "answerIndex": 1,
+    "target": "v00048",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “concern” is “kekhawatiran; menyangkut”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v049",
+    "type": "placement",
+    "skill": "vocabulary_meaning",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which Indonesian meaning best matches “confirm”?",
+    "options": [
+      "mengonfirmasi",
+      "kemampuan",
+      "menerima",
+      "mencapai"
+    ],
+    "answerIndex": 0,
+    "target": "v00049",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “confirm” is “mengonfirmasi”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-v050",
+    "type": "placement",
+    "skill": "vocabulary_precision",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "What does “consider” mean in Indonesian?",
+    "options": [
+      "kemampuan",
+      "menerima",
+      "mencapai",
+      "mempertimbangkan"
+    ],
+    "answerIndex": 3,
+    "target": "v00050",
+    "explain": {
+      "why": "The Master Vocabulary gloss for “consider” is “mempertimbangkan”.",
+      "rule": "Vocabulary meaning",
+      "avoid": "Use context and an example to reinforce the meaning."
+    }
+  },
+  {
+    "id": "lt6-g001",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "Every morning, she ___ her ability through regular practice.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use third-person singular present simple.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g002",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "The company ___ new products every year.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use third-person singular present simple.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g003",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "They ___ the weekly report on Monday.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use the base form with a plural subject.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g004",
+    "type": "placement",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "We ___ the museum last Saturday.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use the past form for a completed event.",
+      "rule": "past simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g005",
+    "type": "placement",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "He ___ the project before dinner yesterday.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use the past simple for a completed past action.",
+      "rule": "past simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g006",
+    "type": "placement",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "She ___ the report three times this week.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use has + past participle with she.",
+      "rule": "present perfect",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g007",
+    "type": "placement",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "They ___ the new system since June.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use have + past participle with they and since.",
+      "rule": "present perfect",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g008",
+    "type": "placement",
+    "skill": "future",
+    "level": "B1",
+    "question": "By next month, the team ___ the bridge design.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use future perfect for an action completed by a future time.",
+      "rule": "future",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g009",
+    "type": "placement",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "If I ___ more time, I would join the course.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Second conditional uses past simple in the if-clause.",
+      "rule": "conditionals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g010",
+    "type": "placement",
+    "skill": "modals",
+    "level": "A2",
+    "question": "You ___ wear a helmet when riding this bike.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use should for advice.",
+      "rule": "modals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g011",
+    "type": "placement",
+    "skill": "articles",
+    "level": "A1",
+    "question": "She bought ___ umbrella because it was raining.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use an before a vowel sound.",
+      "rule": "articles",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g012",
+    "type": "placement",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "The meeting starts ___ Monday.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use on with days of the week.",
+      "rule": "prepositions",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g013",
+    "type": "placement",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "He enjoys ___ in the evening.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Enjoy is followed by a gerund.",
+      "rule": "gerunds",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g014",
+    "type": "placement",
+    "skill": "passive",
+    "level": "B1",
+    "question": "The bridge ___ last year.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use was + past participle for a singular past passive.",
+      "rule": "passive",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g015",
+    "type": "placement",
+    "skill": "reported",
+    "level": "B2",
+    "question": "She said that she ___ tired.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Backshift is common in reported speech.",
+      "rule": "reported",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g016",
+    "type": "placement",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "The book ___ I borrowed was excellent.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Use which for a thing.",
+      "rule": "relatives",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g017",
+    "type": "placement",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "Hardly ___ the train when it began to rain.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": {
+      "why": "After hardly at the start, use auxiliary + subject.",
+      "rule": "inversion",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g018",
+    "type": "placement",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "He ___ have forgotten the appointment; he never arrived.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": {
+      "why": "Must have expresses a strong deduction about the past.",
+      "rule": "advanced modals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g019",
+    "type": "placement",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "The course aims to improve writing, speaking, and ___.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Keep parallel gerund forms.",
+      "rule": "parallelism",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g020",
+    "type": "placement",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "The list of new words ___ on the desk.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": {
+      "why": "The head subject is singular: list.",
+      "rule": "subject verb agreement",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "ability",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g021",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A1",
+    "question": "Every morning, she ___ her ability through regular practice The project is part of the lesson.",
+    "options": [
+      "develops",
+      "develop",
+      "developing",
+      "developed"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use third-person singular present simple.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g022",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "The company ___ new products every year The project is part of the lesson.",
+    "options": [
+      "develop",
+      "develops",
+      "developed",
+      "developing"
+    ],
+    "answerIndex": 1,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use third-person singular present simple.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g023",
+    "type": "placement",
+    "skill": "present_simple",
+    "level": "A2",
+    "question": "They ___ the weekly report on Monday The project is part of the lesson.",
+    "options": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use the base form with a plural subject.",
+      "rule": "present simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g024",
+    "type": "placement",
+    "skill": "past_simple",
+    "level": "A1",
+    "question": "We ___ the museum last Saturday The project is part of the lesson.",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "visits"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use the past form for a completed event.",
+      "rule": "past simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g025",
+    "type": "placement",
+    "skill": "past_simple",
+    "level": "A2",
+    "question": "He ___ the project before dinner yesterday The project is part of the lesson.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use the past simple for a completed past action.",
+      "rule": "past simple",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g026",
+    "type": "placement",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "She ___ the report three times this week The project is part of the lesson.",
+    "options": [
+      "has checked",
+      "checked",
+      "is checking",
+      "check"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use has + past participle with she.",
+      "rule": "present perfect",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g027",
+    "type": "placement",
+    "skill": "present_perfect",
+    "level": "B1",
+    "question": "They ___ the new system since June The project is part of the lesson.",
+    "options": [
+      "have used",
+      "used",
+      "are using",
+      "use"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use have + past participle with they and since.",
+      "rule": "present perfect",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g028",
+    "type": "placement",
+    "skill": "future",
+    "level": "B1",
+    "question": "By next month, the team ___ the bridge design The project is part of the lesson.",
+    "options": [
+      "will complete",
+      "completed",
+      "completes",
+      "has complete"
+    ],
+    "answerIndex": 0,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use future perfect for an action completed by a future time.",
+      "rule": "future",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g029",
+    "type": "placement",
+    "skill": "conditionals",
+    "level": "B1",
+    "question": "If I ___ more time, I would join the course The project is part of the lesson.",
+    "options": [
+      "have",
+      "had",
+      "will have",
+      "am having"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Second conditional uses past simple in the if-clause.",
+      "rule": "conditionals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g030",
+    "type": "placement",
+    "skill": "modals",
+    "level": "A2",
+    "question": "You ___ wear a helmet when riding this bike The project is part of the lesson.",
+    "options": [
+      "should",
+      "would",
+      "might to",
+      "are"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "explain": {
+      "why": "Use should for advice.",
+      "rule": "modals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g031",
+    "type": "placement",
+    "skill": "articles",
+    "level": "A1",
+    "question": "She bought ___ umbrella because it was raining The project is part of the lesson.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answerIndex": 1,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use an before a vowel sound.",
+      "rule": "articles",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g032",
+    "type": "placement",
+    "skill": "prepositions",
+    "level": "A1",
+    "question": "The meeting starts ___ Monday The project is part of the lesson.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "answerIndex": 2,
+    "difficulty": 1,
+    "explain": {
+      "why": "Use on with days of the week.",
+      "rule": "prepositions",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g033",
+    "type": "placement",
+    "skill": "gerunds",
+    "level": "B1",
+    "question": "He enjoys ___ in the evening The project is part of the lesson.",
+    "options": [
+      "read",
+      "reading",
+      "to read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Enjoy is followed by a gerund.",
+      "rule": "gerunds",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g034",
+    "type": "placement",
+    "skill": "passive",
+    "level": "B1",
+    "question": "The bridge ___ last year The project is part of the lesson.",
+    "options": [
+      "built",
+      "was built",
+      "is build",
+      "has build"
+    ],
+    "answerIndex": 1,
+    "difficulty": 3,
+    "explain": {
+      "why": "Use was + past participle for a singular past passive.",
+      "rule": "passive",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g035",
+    "type": "placement",
+    "skill": "reported",
+    "level": "B2",
+    "question": "She said that she ___ tired The project is part of the lesson.",
+    "options": [
+      "is",
+      "was",
+      "will",
+      "be"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Backshift is common in reported speech.",
+      "rule": "reported",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g036",
+    "type": "placement",
+    "skill": "relatives",
+    "level": "B2",
+    "question": "The book ___ I borrowed was excellent The project is part of the lesson.",
+    "options": [
+      "who",
+      "which",
+      "where",
+      "when"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Use which for a thing.",
+      "rule": "relatives",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g037",
+    "type": "placement",
+    "skill": "inversion",
+    "level": "C1",
+    "question": "Hardly ___ the train when it began to rain The project is part of the lesson.",
+    "options": [
+      "had we boarded",
+      "we had boarded",
+      "have we boarded",
+      "did we board"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": {
+      "why": "After hardly at the start, use auxiliary + subject.",
+      "rule": "inversion",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g038",
+    "type": "placement",
+    "skill": "advanced_modals",
+    "level": "C1",
+    "question": "He ___ have forgotten the appointment; he never arrived The project is part of the lesson.",
+    "options": [
+      "must",
+      "should",
+      "can",
+      "would"
+    ],
+    "answerIndex": 0,
+    "difficulty": 5,
+    "explain": {
+      "why": "Must have expresses a strong deduction about the past.",
+      "rule": "advanced modals",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g039",
+    "type": "placement",
+    "skill": "parallelism",
+    "level": "B2",
+    "question": "The course aims to improve writing, speaking, and ___ The project is part of the lesson.",
+    "options": [
+      "to read",
+      "reading",
+      "read",
+      "reads"
+    ],
+    "answerIndex": 1,
+    "difficulty": 4,
+    "explain": {
+      "why": "Keep parallel gerund forms.",
+      "rule": "parallelism",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-g040",
+    "type": "placement",
+    "skill": "subject_verb_agreement",
+    "level": "A2",
+    "question": "The list of new words ___ on the desk The project is part of the lesson.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "be"
+    ],
+    "answerIndex": 2,
+    "difficulty": 2,
+    "explain": {
+      "why": "The head subject is singular: list.",
+      "rule": "subject verb agreement",
+      "avoid": "Check the subject, time expression, and structure before choosing."
+    },
+    "vocabContext": "project",
+    "contentStatus": "validated_editorial_template"
+  },
+  {
+    "id": "lt6-r001",
+    "type": "placement",
+    "skill": "reading_detail",
+    "question": "In “Daily Routine — 1”, In “Daily Routine — 1”, where does the passage say the event took place ?",
+    "options": [
+      "a community library",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "a community library",
+    "contentStatus": "validated_structure",
+    "contextId": "r0001",
+    "explain": {
+      "why": "The answer is supported by “Daily Routine — 1”.",
+      "rule": "reading detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r002",
+    "type": "placement",
+    "skill": "reading_evidence",
+    "question": "In “Daily Routine — 1”, What fact does “Daily Routine — 1” explicitly provide ?",
+    "options": [
+      "Monday",
+      "Sunday",
+      "last month",
+      "at night"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Monday",
+    "contentStatus": "validated_structure",
+    "contextId": "r0001",
+    "explain": {
+      "why": "The answer is supported by “Daily Routine — 1”.",
+      "rule": "reading evidence",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r003",
+    "type": "placement",
+    "skill": "reading_comprehension",
+    "question": "In “Daily Routine — 1”, What was the first step described in “Daily Routine — 1” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0001",
+    "explain": {
+      "why": "The answer is supported by “Daily Routine — 1”.",
+      "rule": "reading comprehension",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r004",
+    "type": "placement",
+    "skill": "reading_retrieval",
+    "question": "In “Daily Routine — 1”, Which duration is stated in the passage “Daily Routine — 1” ?",
+    "options": [
+      "About 2 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "About 2 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0001",
+    "explain": {
+      "why": "The answer is supported by “Daily Routine — 1”.",
+      "rule": "reading retrieval",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r005",
+    "type": "placement",
+    "skill": "reading_paraphrase",
+    "question": "In “Daily Routine — 1”, Which option preserves the meaning of the stated detail in “Daily Routine — 1” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0001",
+    "explain": {
+      "why": "The answer is supported by “Daily Routine — 1”.",
+      "rule": "reading paraphrase",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r006",
+    "type": "placement",
+    "skill": "reading_inference",
+    "question": "In “A Helpful Neighbor — 2”, Which detail is directly stated in “A Helpful Neighbor — 2” ?",
+    "options": [
+      "a public school",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "a public school",
+    "contentStatus": "validated_structure",
+    "contextId": "r0002",
+    "explain": {
+      "why": "The answer is supported by “A Helpful Neighbor — 2”.",
+      "rule": "reading inference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r007",
+    "type": "placement",
+    "skill": "reading_true_false",
+    "question": "In “A Helpful Neighbor — 2”, What fact does “A Helpful Neighbor — 2” explicitly provide ?",
+    "options": [
+      "The passage supports the detail that the passage supports the detail that tuesday..",
+      "The passage says the passage says sunday..",
+      "The passage says the passage says last month..",
+      "The passage says the passage says at night.."
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "The passage supports the detail that tuesday.",
+    "contentStatus": "validated_structure",
+    "contextId": "r0002",
+    "explain": {
+      "why": "The answer is supported by “A Helpful Neighbor — 2”.",
+      "rule": "reading true false",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r008",
+    "type": "placement",
+    "skill": "reading_reference",
+    "question": "In “A Helpful Neighbor — 2”, Which statement can be confirmed directly from “A Helpful Neighbor — 2” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0002",
+    "explain": {
+      "why": "The answer is supported by “A Helpful Neighbor — 2”.",
+      "rule": "reading reference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r009",
+    "type": "placement",
+    "skill": "reading_author_focus",
+    "question": "In “A Helpful Neighbor — 2”, What information is stated without inference in “A Helpful Neighbor — 2” ?",
+    "options": [
+      "About 3 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "About 3 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0002",
+    "explain": {
+      "why": "The answer is supported by “A Helpful Neighbor — 2”.",
+      "rule": "reading author focus",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r010",
+    "type": "placement",
+    "skill": "reading_summary_detail",
+    "question": "In “A Helpful Neighbor — 2”, Which detail is supported word-for-word by the passage “A Helpful Neighbor — 2” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0002",
+    "explain": {
+      "why": "The answer is supported by “A Helpful Neighbor — 2”.",
+      "rule": "reading summary detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r011",
+    "type": "placement",
+    "skill": "reading_detail",
+    "question": "In “A Visit to the Market — 3”, In “A Visit to the Market — 3”, where does the passage say the event took place ?",
+    "options": [
+      "a university laboratory",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "a university laboratory",
+    "contentStatus": "validated_structure",
+    "contextId": "r0003",
+    "explain": {
+      "why": "The answer is supported by “A Visit to the Market — 3”.",
+      "rule": "reading detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r012",
+    "type": "placement",
+    "skill": "reading_evidence",
+    "question": "In “A Visit to the Market — 3”, What fact does “A Visit to the Market — 3” explicitly provide ?",
+    "options": [
+      "Wednesday",
+      "Sunday",
+      "last month",
+      "at night"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Wednesday",
+    "contentStatus": "validated_structure",
+    "contextId": "r0003",
+    "explain": {
+      "why": "The answer is supported by “A Visit to the Market — 3”.",
+      "rule": "reading evidence",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r013",
+    "type": "placement",
+    "skill": "reading_comprehension",
+    "question": "In “A Visit to the Market — 3”, What was the first step described in “A Visit to the Market — 3” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0003",
+    "explain": {
+      "why": "The answer is supported by “A Visit to the Market — 3”.",
+      "rule": "reading comprehension",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r014",
+    "type": "placement",
+    "skill": "reading_retrieval",
+    "question": "In “A Visit to the Market — 3”, Which duration is stated in the passage “A Visit to the Market — 3” ?",
+    "options": [
+      "About 4 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "About 4 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0003",
+    "explain": {
+      "why": "The answer is supported by “A Visit to the Market — 3”.",
+      "rule": "reading retrieval",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r015",
+    "type": "placement",
+    "skill": "reading_paraphrase",
+    "question": "In “A Visit to the Market — 3”, Which option preserves the meaning of the stated detail in “A Visit to the Market — 3” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0003",
+    "explain": {
+      "why": "The answer is supported by “A Visit to the Market — 3”.",
+      "rule": "reading paraphrase",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r016",
+    "type": "placement",
+    "skill": "reading_inference",
+    "question": "In “A School Project — 4”, Which detail is directly stated in “A School Project — 4” ?",
+    "options": [
+      "a community garden",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "a community garden",
+    "contentStatus": "validated_structure",
+    "contextId": "r0004",
+    "explain": {
+      "why": "The answer is supported by “A School Project — 4”.",
+      "rule": "reading inference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r017",
+    "type": "placement",
+    "skill": "reading_true_false",
+    "question": "In “A School Project — 4”, What fact does “A School Project — 4” explicitly provide ?",
+    "options": [
+      "The passage supports the detail that the passage supports the detail that thursday..",
+      "The passage says the passage says sunday..",
+      "The passage says the passage says last month..",
+      "The passage says the passage says at night.."
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "The passage supports the detail that thursday.",
+    "contentStatus": "validated_structure",
+    "contextId": "r0004",
+    "explain": {
+      "why": "The answer is supported by “A School Project — 4”.",
+      "rule": "reading true false",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r018",
+    "type": "placement",
+    "skill": "reading_reference",
+    "question": "In “A School Project — 4”, Which statement can be confirmed directly from “A School Project — 4” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0004",
+    "explain": {
+      "why": "The answer is supported by “A School Project — 4”.",
+      "rule": "reading reference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r019",
+    "type": "placement",
+    "skill": "reading_author_focus",
+    "question": "In “A School Project — 4”, What information is stated without inference in “A School Project — 4” ?",
+    "options": [
+      "About 5 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "About 5 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0004",
+    "explain": {
+      "why": "The answer is supported by “A School Project — 4”.",
+      "rule": "reading author focus",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r020",
+    "type": "placement",
+    "skill": "reading_summary_detail",
+    "question": "In “A School Project — 4”, Which detail is supported word-for-word by the passage “A School Project — 4” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 1,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0004",
+    "explain": {
+      "why": "The answer is supported by “A School Project — 4”.",
+      "rule": "reading summary detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r021",
+    "type": "placement",
+    "skill": "reading_detail",
+    "question": "In “A Weekend Trip — 5”, In “A Weekend Trip — 5”, where does the passage say the event took place ?",
+    "options": [
+      "a small technology company",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "a small technology company",
+    "contentStatus": "validated_structure",
+    "contextId": "r0005",
+    "explain": {
+      "why": "The answer is supported by “A Weekend Trip — 5”.",
+      "rule": "reading detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r022",
+    "type": "placement",
+    "skill": "reading_evidence",
+    "question": "In “A Weekend Trip — 5”, What fact does “A Weekend Trip — 5” explicitly provide ?",
+    "options": [
+      "Friday",
+      "Sunday",
+      "last month",
+      "at night"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "Friday",
+    "contentStatus": "validated_structure",
+    "contextId": "r0005",
+    "explain": {
+      "why": "The answer is supported by “A Weekend Trip — 5”.",
+      "rule": "reading evidence",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r023",
+    "type": "placement",
+    "skill": "reading_comprehension",
+    "question": "In “A Weekend Trip — 5”, What was the first step described in “A Weekend Trip — 5” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0005",
+    "explain": {
+      "why": "The answer is supported by “A Weekend Trip — 5”.",
+      "rule": "reading comprehension",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r024",
+    "type": "placement",
+    "skill": "reading_retrieval",
+    "question": "In “A Weekend Trip — 5”, Which duration is stated in the passage “A Weekend Trip — 5” ?",
+    "options": [
+      "About 6 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "About 6 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0005",
+    "explain": {
+      "why": "The answer is supported by “A Weekend Trip — 5”.",
+      "rule": "reading retrieval",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r025",
+    "type": "placement",
+    "skill": "reading_paraphrase",
+    "question": "In “A Weekend Trip — 5”, Which option preserves the meaning of the stated detail in “A Weekend Trip — 5” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0005",
+    "explain": {
+      "why": "The answer is supported by “A Weekend Trip — 5”.",
+      "rule": "reading paraphrase",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r026",
+    "type": "placement",
+    "skill": "reading_inference",
+    "question": "In “Learning a New Skill — 6”, Which detail is directly stated in “Learning a New Skill — 6” ?",
+    "options": [
+      "a neighborhood market",
+      "a cinema",
+      "a hotel",
+      "an airport"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "a neighborhood market",
+    "contentStatus": "validated_structure",
+    "contextId": "r0006",
+    "explain": {
+      "why": "The answer is supported by “Learning a New Skill — 6”.",
+      "rule": "reading inference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r027",
+    "type": "placement",
+    "skill": "reading_true_false",
+    "question": "In “Learning a New Skill — 6”, What fact does “Learning a New Skill — 6” explicitly provide ?",
+    "options": [
+      "The passage supports the detail that the passage supports the detail that saturday..",
+      "The passage says the passage says sunday..",
+      "The passage says the passage says last month..",
+      "The passage says the passage says at night.."
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "The passage supports the detail that saturday.",
+    "contentStatus": "validated_structure",
+    "contextId": "r0006",
+    "explain": {
+      "why": "The answer is supported by “Learning a New Skill — 6”.",
+      "rule": "reading true false",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r028",
+    "type": "placement",
+    "skill": "reading_reference",
+    "question": "In “Learning a New Skill — 6”, Which statement can be confirmed directly from “Learning a New Skill — 6” ?",
+    "options": [
+      "Checked the schedule and prepared",
+      "Went home",
+      "Bought a car",
+      "Started a new job"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "Checked the schedule and prepared",
+    "contentStatus": "validated_structure",
+    "contextId": "r0006",
+    "explain": {
+      "why": "The answer is supported by “Learning a New Skill — 6”.",
+      "rule": "reading reference",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r029",
+    "type": "placement",
+    "skill": "reading_author_focus",
+    "question": "In “Learning a New Skill — 6”, What information is stated without inference in “Learning a New Skill — 6” ?",
+    "options": [
+      "About 7 hours",
+      "One minute",
+      "A whole year",
+      "Three weeks"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "About 7 hours",
+    "contentStatus": "validated_structure",
+    "contextId": "r0006",
+    "explain": {
+      "why": "The answer is supported by “Learning a New Skill — 6”.",
+      "rule": "reading author focus",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-r030",
+    "type": "placement",
+    "skill": "reading_summary_detail",
+    "question": "In “Learning a New Skill — 6”, Which detail is supported word-for-word by the passage “Learning a New Skill — 6” ?",
+    "options": [
+      "One useful thing learned",
+      "A weather report",
+      "A restaurant bill",
+      "A train number"
+    ],
+    "answerIndex": 0,
+    "difficulty": 2,
+    "evidence": "One useful thing learned",
+    "contentStatus": "validated_structure",
+    "contextId": "r0006",
+    "explain": {
+      "why": "The answer is supported by “Learning a New Skill — 6”.",
+      "rule": "reading summary detail",
+      "avoid": "Return to the passage and locate the supporting evidence."
+    }
+  },
+  {
+    "id": "lt6-c001",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The article examines ___ in modern society.”",
+    "options": [
+      "consist",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00051",
+    "explain": {
+      "why": "“consist” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c002",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The engineers plan to ___ a new bridge across the river.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "construct"
+    ],
+    "answerIndex": 3,
+    "target": "v00052",
+    "explain": {
+      "why": "“construct” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c003",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “He used ___ to describe how he felt.”",
+    "options": [
+      "accept",
+      "achieve",
+      "consume",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00053",
+    "explain": {
+      "why": "“consume” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c004",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which word best completes this sentence? “The experiment gave us a clearer example of ___.”",
+    "options": [
+      "achieve",
+      "contain",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00054",
+    "explain": {
+      "why": "“contain” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c005",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The company considered ___ before making its decision.”",
+    "options": [
+      "contribute",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00055",
+    "explain": {
+      "why": "“contribute” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c006",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The museum display included an example of ___.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "convince"
+    ],
+    "answerIndex": 3,
+    "target": "v00056",
+    "explain": {
+      "why": "“convince” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c007",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The coach mentioned ___ while reviewing the match.”",
+    "options": [
+      "accept",
+      "achieve",
+      "cope",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00057",
+    "explain": {
+      "why": "“cope” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c008",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "Which word best completes this sentence? “The instructions explain how ___ is used at home.”",
+    "options": [
+      "achieve",
+      "correct",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00058",
+    "explain": {
+      "why": "“correct” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c009",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "A1",
+    "difficulty": 1,
+    "question": "Which word best completes this sentence? “She will ___ the task after lunch.”",
+    "options": [
+      "create",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00059",
+    "explain": {
+      "why": "“create” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c010",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The report gives a ___ explanation of the issue.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "crucial"
+    ],
+    "answerIndex": 3,
+    "target": "v00060",
+    "explain": {
+      "why": "“crucial” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c011",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The team decided to ___ the plan before the meeting.”",
+    "options": [
+      "accept",
+      "achieve",
+      "debate",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00061",
+    "explain": {
+      "why": "“debate” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c012",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The story includes ___ in a family conversation.”",
+    "options": [
+      "achieve",
+      "decline",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00062",
+    "explain": {
+      "why": "“decline” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c013",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which word best completes this sentence? “The teacher asked us to use ___ in a sentence.”",
+    "options": [
+      "define",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00063",
+    "explain": {
+      "why": "“define” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c014",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “Her manager explained how ___ affected the project.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "demand"
+    ],
+    "answerIndex": 3,
+    "target": "v00064",
+    "explain": {
+      "why": "“demand” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c015",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “She will ___ the task after lunch.”",
+    "options": [
+      "accept",
+      "achieve",
+      "demonstrate",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00065",
+    "explain": {
+      "why": "“demonstrate” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c016",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "C1",
+    "difficulty": 5,
+    "question": "Which word best completes this sentence? “We talked about ___ while choosing what to eat.”",
+    "options": [
+      "achieve",
+      "denote",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00066",
+    "explain": {
+      "why": "“denote” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c017",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The doctor used ___ when explaining the situation.”",
+    "options": [
+      "deny",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00067",
+    "explain": {
+      "why": "“deny” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c018",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which word best completes this sentence? “We noticed ___ while testing the new system.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "depend"
+    ],
+    "answerIndex": 3,
+    "target": "v00068",
+    "explain": {
+      "why": "“depend” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c019",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which word best completes this sentence? “The report discussed ___ and its effect on the local area.”",
+    "options": [
+      "accept",
+      "achieve",
+      "despite",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00069",
+    "explain": {
+      "why": "“despite” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c020",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The article mentioned ___ when discussing the natural world.”",
+    "options": [
+      "achieve",
+      "detect",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00070",
+    "explain": {
+      "why": "“detect” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c021",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The article examines ___ in modern society.”",
+    "options": [
+      "determine",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00071",
+    "explain": {
+      "why": "“determine” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c022",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which word best completes this sentence? “The company wants to ___ a safer and more efficient product.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "develop"
+    ],
+    "answerIndex": 3,
+    "target": "v00072",
+    "explain": {
+      "why": "“develop” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c023",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "A2",
+    "difficulty": 2,
+    "question": "Which word best completes this sentence? “He used ___ to describe how he felt.”",
+    "options": [
+      "accept",
+      "achieve",
+      "device",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00073",
+    "explain": {
+      "why": "“device” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c024",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The experiment gave us a clearer example of ___.”",
+    "options": [
+      "achieve",
+      "differ",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00074",
+    "explain": {
+      "why": "“differ” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c025",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B1",
+    "difficulty": 3,
+    "question": "Which word best completes this sentence? “The company considered ___ before making its decision.”",
+    "options": [
+      "display",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00075",
+    "explain": {
+      "why": "“display” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c026",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The museum display included an example of ___.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "distinguish"
+    ],
+    "answerIndex": 3,
+    "target": "v00076",
+    "explain": {
+      "why": "“distinguish” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c027",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The coach mentioned ___ while reviewing the match.”",
+    "options": [
+      "accept",
+      "achieve",
+      "distribute",
+      "ability"
+    ],
+    "answerIndex": 2,
+    "target": "v00077",
+    "explain": {
+      "why": "“distribute” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c028",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The instructions explain how ___ is used at home.”",
+    "options": [
+      "achieve",
+      "diverse",
+      "ability",
+      "accept"
+    ],
+    "answerIndex": 1,
+    "target": "v00078",
+    "explain": {
+      "why": "“diverse” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c029",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The result was ___, so everyone noticed the difference.”",
+    "options": [
+      "domestic",
+      "ability",
+      "accept",
+      "achieve"
+    ],
+    "answerIndex": 0,
+    "target": "v00079",
+    "explain": {
+      "why": "“domestic” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  },
+  {
+    "id": "lt6-c030",
+    "type": "placement",
+    "skill": "vocabulary_in_context",
+    "level": "B2",
+    "difficulty": 4,
+    "question": "Which word best completes this sentence? “The driver explained ___ before we left.”",
+    "options": [
+      "ability",
+      "accept",
+      "achieve",
+      "efficient"
+    ],
+    "answerIndex": 3,
+    "target": "v00080",
+    "explain": {
+      "why": "“efficient” is the vocabulary item that fits the sentence.",
+      "rule": "Vocabulary in context",
+      "avoid": "Use the surrounding context, not just the word shape."
+    }
+  }
+]
